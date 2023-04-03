@@ -5,13 +5,6 @@ namespace ReelWords.Infrastructure.Services
 {
     public class ScoreService : IScoreService
     {
-        private readonly IRepositoryBase<Score> _scoreRepository;
-
-        public ScoreService(IRepositoryBase<Score> scoreRepository)
-        {
-            this._scoreRepository = scoreRepository;
-        }
-
         public IEnumerable<Score> GenerateListFromFile(string filePath)
         {
             IList<Score> scores = new List<Score>();

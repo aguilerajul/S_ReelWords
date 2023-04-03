@@ -21,8 +21,4 @@
     <ProjectReference Include="..\..\Domain\ReelWords.Domain\ReelWords.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Repositories\Migrations\" />
-  </ItemGroup>
-
 </Project>

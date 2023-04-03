@@ -3,7 +3,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using ReelWords.Domain.Contracts;
-using ReelWords.Domain.Entities;
 using ReelWords.Infrastructure;
 
 // Build Configuration
@@ -20,25 +19,27 @@ using IHost host = Host.CreateDefaultBuilder(args)
     })
     .Build();
 
-// Load Data
-var trie = new Trie();
-LoadData(host.Services, trie);
+// DI Provider
+// var provider = GetProvider(host.Services);
+var trieService = GetService<ITrieService>(host.Services);
+var scoreService = GetService<IScoreService>(host.Services);
+var reelService = GetService<IReelsService>(host.Services);
+
+// Pre-Load Data
+var baseDirectoryPath = $"{AppDomain.CurrentDomain.BaseDirectory}Resources";
+var trie = trieService.GenerateFromFile($"{baseDirectoryPath}\\american-english-large.txt");
+var scores = scoreService.GenerateListFromFile($"{baseDirectoryPath}\\scores.txt");
+var reels = reelService.GenerateListFromFile($"{baseDirectoryPath}\\reels.txt");
 
 // starting game
 startGame();
 
 await host.RunAsync();
 
-static void LoadData(
-    IServiceProvider hostProvider,
-    Trie? trie
-)
+static T GetService<T>(IServiceProvider hostProvider)
 {
     using IServiceScope serviceScope = hostProvider.CreateScope();
-    IServiceProvider provider = serviceScope.ServiceProvider;
-    var trieService = provider.GetRequiredService<ITrieService>();
-
-    trie = trieService.GenerateFromFile($"{AppDomain.CurrentDomain.BaseDirectory}Resources\\american-english-large.txt");
+    return hostProvider.GetRequiredService<T>();
 }
 
 static void startGame()

@@ -18,7 +18,7 @@ namespace ReelWords.Domain.Entities
             foreach (var c in s)
             {
                 current = current.SearchChild(c);
-                if (current != null)
+                if (current == null)
                     break;
                 found = current;
             }

@@ -105,3 +105,7 @@ D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Applic
 D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Domain.pdb
 D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Infrastructure.pdb
 D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.CopyComplete
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\appsettings.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\american-english-large.txt
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\reels.txt
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\scores.txt
