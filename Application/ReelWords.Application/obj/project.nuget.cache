@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "CxbDwTQ0PQH2fMrmJX/TtG1l1Ei3NoHTafVTvqGyC+gx2JvGkPbg8R+J1upVG76v3CquLx632y81O3ReR/mlng==",
+  "dgSpecHash": "v6bNch7m+IM/yzVwpj4TBouDYg4BLZj0deWAMvTASZ4PKhIyJxraQN35KZwzkd0c4cvAFnrEL5yRjaWP8uzWrg==",
   "success": true,
-  "projectFilePath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
+  "projectFilePath": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/public-nuget-repo/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/club-nugget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/public-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

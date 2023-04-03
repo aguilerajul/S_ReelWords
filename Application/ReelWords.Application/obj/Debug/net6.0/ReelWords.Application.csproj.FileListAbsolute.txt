@@ -1,0 +1,15 @@
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.exe
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.deps.json
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.runtimeconfig.json
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.pdb
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.AssemblyReference.cache
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.AssemblyInfoInputs.cache
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.AssemblyInfo.cs
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.CoreCompileInputs.cache
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\refint\ReelWords.Application.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.pdb
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.genruntimeconfig.cache
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ref\ReelWords.Application.dll

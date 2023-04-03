@@ -1,0 +1,17 @@
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.csproj.AssemblyReference.cache
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.AssemblyInfoInputs.cache
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.AssemblyInfo.cs
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.csproj.CoreCompileInputs.cache
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Tests.deps.json
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Tests.runtimeconfig.json
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Tests.dll
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Tests.pdb
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\bin\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.csproj.CopyComplete
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.dll
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\refint\ReelWords.Tests.dll
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.pdb
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ReelWords.Tests.genruntimeconfig.cache
+D:\Personal\Project\S_ReelWords\Tests\ReelWords.Tests\obj\Debug\net6.0\ref\ReelWords.Tests.dll
