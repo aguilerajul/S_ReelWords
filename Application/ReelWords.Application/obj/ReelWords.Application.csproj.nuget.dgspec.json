@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj": {}
+    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj": {
+    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
+        "projectUniqueName": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
         "projectName": "ReelWords.Application",
-        "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
-        "packagesPath": "C:\\Users\\jaguilera\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\obj\\",
+        "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
+        "packagesPath": "C:\\Users\\Ag_Ju\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jaguilera\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ag_Ju\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,10 +26,90 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\Ubisoft Connect\\LocalNuGetPackages": {},
-          "http://nexus.ubiservices.ubi.com/repository/club-nugget-hosted/": {},
-          "http://nexus.ubiservices.ubi.com/repository/public-nuget-repo/": {},
-          "http://nexus.ubiservices.ubi.com/repository/public-nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj": {
+                "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj"
+              },
+              "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj": {
+                "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj",
+        "projectName": "ReelWords.Domain",
+        "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ag_Ju\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ag_Ju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +143,94 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj",
+        "projectName": "ReelWords.Infrastructure",
+        "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ag_Ju\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Ag_Ju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj": {
+                "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

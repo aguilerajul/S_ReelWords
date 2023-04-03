@@ -5,12 +5,10 @@
         public int Id { get; private set; }
         public string Name { get; private set; }
         public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
-        public bool IsExpired { get; set; }
 
-        public Reel(string name, bool isExpired)
+        public Reel(string name)
         {
             Name = name;
-            IsExpired = isExpired;
         }
     }
 }

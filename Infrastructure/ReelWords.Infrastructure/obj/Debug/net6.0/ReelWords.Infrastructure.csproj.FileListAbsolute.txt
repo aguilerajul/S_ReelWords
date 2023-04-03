@@ -15,3 +15,20 @@ D:\Personal\Project\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debu
 D:\Personal\Project\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.pdb
 D:\Personal\Project\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.genruntimeconfig.cache
 D:\Personal\Project\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ref\ReelWords.Infrastructure.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.csproj.AssemblyReference.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.AssemblyInfoInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.AssemblyInfo.cs
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\refint\ReelWords.Infrastructure.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Infrastructure.deps.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Infrastructure.runtimeconfig.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Infrastructure.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Infrastructure.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\bin\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.csproj.CopyComplete
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ReelWords.Infrastructure.genruntimeconfig.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Infrastructure\ReelWords.Infrastructure\obj\Debug\net6.0\ref\ReelWords.Infrastructure.dll

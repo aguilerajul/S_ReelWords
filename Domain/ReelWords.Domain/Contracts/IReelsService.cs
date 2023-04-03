@@ -2,7 +2,7 @@
 
 namespace ReelWords.Domain.Contracts
 {
-    public interface IReelsRepository : IRepositoryBase<Reel>
+    public interface IReelsService : IFileServiceBase<Reel>
     {
     }
 }

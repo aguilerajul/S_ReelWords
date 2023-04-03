@@ -6,22 +6,23 @@ namespace ReelWords.Infrastructure.Repositories
     public class Seeder
     {
         private readonly RepositoryDbContext _context;
-        private readonly ITextFileProcessorService<Reel> _reelFileProcessorService;
-        private readonly ITextFileProcessorService<Score> _scoreFileProcessorService;
+        private readonly IFileServiceBase<Reel> _reelService;
+        private readonly IFileServiceBase<Score> _scoreService;
 
         public Seeder(RepositoryDbContext context,
-            ITextFileProcessorService<Reel> reelFileProcessorService,
-            ITextFileProcessorService<Score> scoreFileProcessorService)
+            IFileServiceBase<Reel> reelService,
+            IFileServiceBase<Score> scoreService)
         {
             this._context = context;
             this._context.Database.EnsureCreated();
-            this._reelFileProcessorService = reelFileProcessorService;
-            this._scoreFileProcessorService = scoreFileProcessorService;
+
+            this._reelService = reelService;
+            this._scoreService = scoreService;
         }
 
-        private static void CreateReels()
+        private void CreateReels()
         {
-
+            // var reels = _reelService.GenerateListFromFile()
         }
     }
 }

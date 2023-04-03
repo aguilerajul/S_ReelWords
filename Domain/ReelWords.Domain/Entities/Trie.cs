@@ -15,7 +15,6 @@ namespace ReelWords.Domain.Entities
         {
             var current = _root;
             var found = current;
-
             foreach (var c in s)
             {
                 current = current.SearchChild(c);
@@ -23,7 +22,6 @@ namespace ReelWords.Domain.Entities
                     break;
                 found = current;
             }
-
             return found;
         }
 

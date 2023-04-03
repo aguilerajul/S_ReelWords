@@ -3,7 +3,7 @@ using ReelWords.Domain.Entities;
 
 namespace ReelWords.Infrastructure.Repositories
 {
-    public class ScoreRepository : IScoreRepository
+    public class ScoreRepository : IRepositoryBase<Score>
     {
         private readonly RepositoryDbContext context;
 

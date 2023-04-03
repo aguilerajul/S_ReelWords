@@ -30,7 +30,6 @@ namespace ReelWords.Infrastructure.Repositories
                     var context = services.GetRequiredService<RepositoryDbContext>();
                     context.Database.Migrate();
                     context.Database.EnsureCreated();
-                    Seeder.Initialize(context);
                 }
                 catch (Exception ex)
                 {
