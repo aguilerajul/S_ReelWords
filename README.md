@@ -24,7 +24,7 @@ Contains all these implementations that are relate it to: Repositories for DB, F
 Contains the tests for the different projects in this case, right only have the domain tests.
 
 ## Pre-Requisistes
-:ballot_box_with_check: You need to have **Visual Studio 2019 Community**, **Visual Studio 2019 Professional** or **Visual Studio 2019 Enterprice**
+:ballot_box_with_check: You need to have **Visual Studio 2019 Community** or superior.
 
 :ballot_box_with_check: You need to have the **.NET Core 3.1** version enabled in your Visual Studio.
 
