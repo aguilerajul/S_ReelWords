@@ -40,7 +40,9 @@ namespace ReelWords.Infrastructure.Services
                         wordRow++;
                     }
                 }
-                return reels;
+
+                Random rand = new Random();
+                return reels.OrderBy(_ => rand.Next());
             }
             catch (Exception ex)
             {
