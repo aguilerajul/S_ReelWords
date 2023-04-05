@@ -10,3 +10,15 @@ D:\Personal\Project\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWor
 D:\Personal\Project\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\refint\ReelWords.Domain.dll
 D:\Personal\Project\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.pdb
 D:\Personal\Project\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ref\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\bin\Debug\net6.0\ReelWords.Domain.deps.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\bin\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\bin\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.csproj.AssemblyReference.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.AssemblyInfoInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.AssemblyInfo.cs
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.csproj.CoreCompileInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\refint\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Domain\ReelWords.Domain\obj\Debug\net6.0\ref\ReelWords.Domain.dll

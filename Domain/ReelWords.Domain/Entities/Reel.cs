@@ -2,15 +2,13 @@
 {
     public class Reel
     {
-        public int Id { get; private set; }
-        public string Name { get; private set; }
-        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
-        public bool IsExpired { get; set; }
+        public IEnumerable<Letter> Letters { get; set; }
+        public string Word { get; private set; }
 
-        public Reel(string name, bool isExpired)
+        public Reel(string word, IEnumerable<Letter> letters)
         {
-            Name = name;
-            IsExpired = isExpired;
+            Word = word;
+            Letters = letters;
         }
     }
 }

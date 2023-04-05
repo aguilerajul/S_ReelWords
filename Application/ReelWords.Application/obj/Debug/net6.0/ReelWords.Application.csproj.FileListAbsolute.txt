@@ -13,3 +13,180 @@ D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6
 D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.pdb
 D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.genruntimeconfig.cache
 D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ref\ReelWords.Application.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.exe
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.deps.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.runtimeconfig.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Application.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.AssemblyReference.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.AssemblyInfoInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.AssemblyInfo.cs
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.CoreCompileInputs.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\refint\ReelWords.Application.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.genruntimeconfig.cache
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ref\ReelWords.Application.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Azure.Core.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Azure.Identity.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Text.Json.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Infrastructure.dll
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Infrastructure.pdb
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.CopyComplete
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\appsettings.json
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\american-english-large.txt
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\reels.txt
+D:\Personal\Interview Projects\Scopely - Barcelona - ReelWord\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\scores.txt
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\appsettings.json
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\american-english-large.txt
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\reels.txt
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Resources\scores.txt
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Azure.Core.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Azure.Identity.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Console.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Debug.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventLog.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.EventSource.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Diagnostics.EventLog.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Text.Json.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Domain.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Infrastructure.dll
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Domain.pdb
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\bin\Debug\net6.0\ReelWords.Infrastructure.pdb
+D:\Personal\Project\S_ReelWords\Application\ReelWords.Application\obj\Debug\net6.0\ReelWords.Application.csproj.CopyComplete

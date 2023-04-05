@@ -1,28 +1,33 @@
-﻿using ReelWords.Domain.Entities;
+﻿using FluentAssertions;
+using ReelWords.Domain.Entities;
 using Xunit;
 
 namespace ReelWords.Tests
 {
     public class TrieTests
     {
-        private const string TEST_WORD = "parallel";
-
-        [Fact]
-        public void TrieInsertTest()
+        [Theory]
+        [InlineData("paralllel")]
+        [InlineData("duel")]
+        public void TrieInsertTest(string testWord)
         {
             Trie trie = new Trie();
-            trie.Insert(TEST_WORD);
-            Assert.True(trie.Search(TEST_WORD));
+            trie.Insert(testWord);
+            trie.Search(testWord).Should().BeTrue();
         }
 
-        [Fact]
-        public void TrieDeleteTest()
+        [Theory]
+        [InlineData("paralllel")]
+        [InlineData("duel")]
+        public void TrieDeleteTest(string testWord)
         {
             Trie trie = new Trie();
-            trie.Insert(TEST_WORD);
-            Assert.True(trie.Search(TEST_WORD));
-            trie.Delete(TEST_WORD);
-            Assert.False(trie.Search(TEST_WORD));
+            trie.Insert(testWord);
+
+            trie.Search(testWord).Should().BeTrue();
+
+            trie.Delete(testWord);
+            trie.Search(testWord).Should().BeFalse();
         }
     }
 }

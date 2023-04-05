@@ -3,13 +3,12 @@
     public class Score
     {
         public int Id { get; private set; }
-        public string Character { get; private set; }
-        public float Value { get; private set; }
-        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
+        public string Letter { get; private set; }
+        public int Value { get; private set; }
 
-        public Score(string character, float value)
+        public Score(string character, int value)
         {
-            Character = character;
+            Letter = character;
             Value = value;
         }
     }
