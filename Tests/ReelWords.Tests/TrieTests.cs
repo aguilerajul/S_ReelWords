@@ -1,4 +1,5 @@
-﻿using ReelWords.Domain.Entities;
+﻿using FluentAssertions;
+using ReelWords.Domain.Entities;
 using Xunit;
 
 namespace ReelWords.Tests
@@ -12,7 +13,7 @@ namespace ReelWords.Tests
         {
             Trie trie = new Trie();
             trie.Insert(testWord);
-            Assert.True(trie.Search(testWord));
+            trie.Search(testWord).Should().BeTrue();
         }
 
         [Theory]
@@ -22,9 +23,11 @@ namespace ReelWords.Tests
         {
             Trie trie = new Trie();
             trie.Insert(testWord);
-            Assert.True(trie.Search(testWord));
+
+            trie.Search(testWord).Should().BeTrue();
+
             trie.Delete(testWord);
-            Assert.False(trie.Search(testWord));
+            trie.Search(testWord).Should().BeFalse();
         }
     }
 }
