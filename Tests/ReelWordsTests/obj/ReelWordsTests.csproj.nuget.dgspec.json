@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWordsTests\\ReelWordsTests.csproj": {}
+    "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWordsTests\\ReelWordsTests.csproj": {}
   },
   "projects": {
-    "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWordsTests\\ReelWordsTests.csproj": {
+    "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWordsTests\\ReelWordsTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWordsTests\\ReelWordsTests.csproj",
+        "projectUniqueName": "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWordsTests\\ReelWordsTests.csproj",
         "projectName": "ReelWordsTests",
-        "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWordsTests\\ReelWordsTests.csproj",
-        "packagesPath": "C:\\Users\\Ag_Ju\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWordsTests\\obj\\",
+        "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWordsTests\\ReelWordsTests.csproj",
+        "packagesPath": "C:\\Users\\jaguilera\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWordsTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ag_Ju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jaguilera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +27,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Ubisoft Connect\\LocalNuGetPackages": {},
+          "http://nexus.ubiservices.ubi.com/repository/club-nugget-hosted/": {},
+          "http://nexus.ubiservices.ubi.com/repository/public-nuget-repo/": {},
+          "http://nexus.ubiservices.ubi.com/repository/public-nuget/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWords\\ReelWords.csproj": {
-                "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\CodeChallenge\\Program\\Tests\\ReelWords\\ReelWords.csproj"
+              "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWords\\ReelWords.csproj": {
+                "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Tests\\ReelWords\\ReelWords.csproj"
               }
             }
           }
@@ -81,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

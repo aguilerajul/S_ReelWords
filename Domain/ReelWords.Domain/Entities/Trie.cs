@@ -11,11 +11,11 @@ namespace ReelWords.Domain.Entities
             this._root = new Node('^', 0);
         }
 
-        public Node Prefix(string s)
+        public Node Prefix(string word)
         {
             var current = _root;
             var found = current;
-            foreach (var c in s)
+            foreach (var c in word)
             {
                 current = current.SearchChild(c);
                 if (current == null)
@@ -25,36 +25,37 @@ namespace ReelWords.Domain.Entities
             return found;
         }
 
-        public bool Search(string s)
+        public bool Search(string word)
         {
-            var prefix = Prefix(s);
-            return prefix.Depth == s.Length && prefix.SearchChild('$') != null;
+            var prefix = Prefix(word);
+            return prefix.Depth == word.Length && prefix.SearchChild('$') != null;
         }
 
-        public void Insert(string s)
+        public void Insert(string word)
         {
-            var prefix = Prefix(s);
+            var prefix = Prefix(word);
             var current = prefix;
-            for (int i = current.Depth; i < s.Length; i++)
+            for (int i = current.Depth; i < word.Length; i++)
             {
-                var newNode = new Node(s[i], current.Depth + 1, current);
+                var newNode = new Node(word[i], current.Depth + 1, current);
                 current.AddChild(newNode);
                 current = newNode;
             }
             current.AddChild(new Node('$', current.Depth + 1, current));
         }
 
-        public void Delete(string s)
+        public void Delete(string word)
         {
-            if(Search(s))
+            if (Search(word))
             {
-                var node = Prefix(s).SearchChild('$');
+                var node = Prefix(word).SearchChild('$');
                 do
                 {
                     var parent = node.Parent;
-                    parent.RemoveChild(node.Value);
+                    if (parent != null)
+                        parent.RemoveChild(node.Value);
                     node = parent;
-                } while (node.IsBranch());
+                } while (node != null && node.IsBranch());
             }
         }
     }

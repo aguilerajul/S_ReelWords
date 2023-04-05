@@ -5,24 +5,26 @@ namespace ReelWords.Tests
 {
     public class TrieTests
     {
-        private const string TEST_WORD = "parallel";
-
-        [Fact]
-        public void TrieInsertTest()
+        [Theory]
+        [InlineData("paralllel")]
+        [InlineData("duel")]
+        public void TrieInsertTest(string testWord)
         {
             Trie trie = new Trie();
-            trie.Insert(TEST_WORD);
-            Assert.True(trie.Search(TEST_WORD));
+            trie.Insert(testWord);
+            Assert.True(trie.Search(testWord));
         }
 
-        [Fact]
-        public void TrieDeleteTest()
+        [Theory]
+        [InlineData("paralllel")]
+        [InlineData("duel")]
+        public void TrieDeleteTest(string testWord)
         {
             Trie trie = new Trie();
-            trie.Insert(TEST_WORD);
-            Assert.True(trie.Search(TEST_WORD));
-            trie.Delete(TEST_WORD);
-            Assert.False(trie.Search(TEST_WORD));
+            trie.Insert(testWord);
+            Assert.True(trie.Search(testWord));
+            trie.Delete(testWord);
+            Assert.False(trie.Search(testWord));
         }
     }
 }

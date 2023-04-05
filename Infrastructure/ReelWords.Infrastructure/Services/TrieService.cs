@@ -1,16 +1,25 @@
-﻿using ReelWords.Domain.Contracts;
+﻿using Microsoft.Extensions.Configuration;
+using ReelWords.Domain.Contracts;
 using ReelWords.Domain.Entities;
 
 namespace ReelWords.Infrastructure.Services
 {
     public class TrieService: ITrieService
     {
-        public Trie GenerateFromFile(string filePath)
+        private readonly IConfiguration _configuration;
+
+        public TrieService(IConfiguration cofiguration)
+        {
+            _configuration = cofiguration;
+        }
+
+        public Trie GenerateFromFile(string directoryPath)
         {
             var trie = new Trie();
             try
             {
-                using (var sr = new StreamReader(filePath))
+                var trieFilePath = $"{directoryPath}{this._configuration.GetSection("ReelWords.FileNames")["trie"]}";
+                using (var sr = new StreamReader(trieFilePath))
                 {
                     while (!sr.EndOfStream) 
                         trie.Insert(sr.ReadLine());

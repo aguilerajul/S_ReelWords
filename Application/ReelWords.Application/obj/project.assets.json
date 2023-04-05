@@ -4308,23 +4308,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ag_Ju\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jaguilera\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
+      "projectUniqueName": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
       "projectName": "ReelWords.Application",
-      "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
-      "packagesPath": "C:\\Users\\Ag_Ju\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Application\\ReelWords.Application\\obj\\",
+      "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\ReelWords.Application.csproj",
+      "packagesPath": "C:\\Users\\jaguilera\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal\\Project\\S_ReelWords\\Application\\ReelWords.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ag_Ju\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jaguilera\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4333,17 +4335,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Ubisoft Connect\\LocalNuGetPackages": {},
+        "http://nexus.ubiservices.ubi.com/repository/club-nugget-hosted/": {},
+        "http://nexus.ubiservices.ubi.com/repository/public-nuget-repo/": {},
+        "http://nexus.ubiservices.ubi.com/repository/public-nuget/": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj": {
-              "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj"
+            "D:\\Personal\\Project\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj": {
+              "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Domain\\ReelWords.Domain\\ReelWords.Domain.csproj"
             },
-            "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj": {
-              "projectPath": "D:\\Personal\\Interview Projects\\Scopely - Barcelona - ReelWord\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj"
+            "D:\\Personal\\Project\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj": {
+              "projectPath": "D:\\Personal\\Project\\S_ReelWords\\Infrastructure\\ReelWords.Infrastructure\\ReelWords.Infrastructure.csproj"
             }
           }
         }
@@ -4391,8 +4397,28 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/public-nuget-repo/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/club-nugget-hosted/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nexus.ubiservices.ubi.com/repository/public-nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
 }

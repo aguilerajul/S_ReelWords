@@ -2,13 +2,13 @@
 {
     public class Reel
     {
-        public int Id { get; private set; }
-        public string Name { get; private set; }
-        public DateTime CreatedDate { get; set; } = DateTime.UtcNow;
+        public IEnumerable<Letter> Letters { get; set; }
+        public string Word { get; private set; }
 
-        public Reel(string name)
+        public Reel(string word, IEnumerable<Letter> letters)
         {
-            Name = name;
+            Word = word;
+            Letters = letters;
         }
     }
 }

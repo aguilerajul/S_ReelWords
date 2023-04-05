@@ -2,8 +2,8 @@
 {
     public interface IFileServiceBase<T>
     {
-        IEnumerable<T> GenerateListFromFile(string filePath);
+        IEnumerable<T> GenerateListFromFile(string directoryPath);
 
-        T GenerateFromFile(string filePath);
+        T GenerateFromFile(string directoryPath);
     }
 }
