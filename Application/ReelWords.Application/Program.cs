@@ -51,11 +51,13 @@ static void startGame(IHost host)
     {
         StringBuilder wordBuilder = GetReelWord(ref reels, playerWord);
         DisplayWordWithScore(scoreService, scores, wordBuilder.ToString());
-        Console.WriteLine("Wrire your word");
+        Console.WriteLine("-- Write your word --");
         playerWord = Console.ReadLine();
         GameSeparator();
 
-        ValidatePlayerInput(trie,ref playerWord);
+        ValidatePlayerInput(ref playerWord);
+        ValidatePlayerInputLettersWithCurrentReel(wordBuilder.ToString(), ref playerWord);
+        ValidatePlayerInputInTrie(trie, ref playerWord);
         DisplayTotalPlayerScore(scoreService, scores, playerWord, ref totalScore);
 
         GameSeparator();
@@ -67,6 +69,7 @@ static void startGame(IHost host)
 static void WelcomeSeparator() => Console.WriteLine("==========================================================");
 static void GameSeparator() => Console.WriteLine("-------------------------------------");
 static void EmptyLine() => Console.WriteLine(" ");
+static void TryAgainMessage() => Console.WriteLine($"So, let's try again with another one.");
 
 static void RulesAndWelcomeMessage(int totalWords)
 {
@@ -106,30 +109,51 @@ static void DisplayWordWithScore(IScoreService scoreService, IList<Score> scores
 
     GameSeparator();
     Console.WriteLine($"Word:  {word}");
-    Console.WriteLine($"Score: {stringBuilder.ToString()}");
+    Console.WriteLine($"Score: {stringBuilder}");
     GameSeparator();
     EmptyLine();
 }
 
-static void ValidatePlayerInput(Trie trie,ref string playerWord)
+static void ValidatePlayerInput(ref string playerWord)
 {
-    ValidatePlayerInputWithTrie(trie, ref playerWord);
-    while (playerWord == null)
+    while (string.IsNullOrWhiteSpace(playerWord))
     {
         Console.WriteLine("Wrire your word");
         playerWord = Console.ReadLine();
-        ValidatePlayerInputWithTrie(trie, ref playerWord);
+        GameSeparator();
     }
 }
 
-static void ValidatePlayerInputWithTrie(Trie trie, ref string playerWord)
+static void ValidatePlayerInputLettersWithCurrentReel(string currentWord, ref string playerWord)
+{
+    var wrongLetters = new List<string>();
+    var cleanWord = currentWord.Trim().Replace(" ", "");
+    foreach (var c in playerWord)
+    {
+        if (!cleanWord.Contains(c))
+        {
+            wrongLetters.Add(c.ToString());
+        }
+    }
+
+    if(wrongLetters.Count > 0)
+    {
+        Console.WriteLine($"There are some invalid letters: '{string.Join(", ", wrongLetters)}' that are not part of the reel.");
+        TryAgainMessage();
+        playerWord = null;
+        ValidatePlayerInput(ref playerWord);
+    }
+}
+
+static void ValidatePlayerInputInTrie(Trie trie, ref string playerWord)
 {
     if (playerWord != null && !trie.Search(playerWord))
     {
         Console.WriteLine($"The word: '{playerWord}' is not registered as a valid word in our game.");
-        Console.WriteLine($"So, let's try with another one.");
+        TryAgainMessage();
         playerWord = null;
         GameSeparator();
+        ValidatePlayerInput(ref playerWord);
     }
 }
 
@@ -159,7 +183,7 @@ static IEnumerable<Letter> SetLettersPositions(ref List<Reel> reels, string play
             var lettersFound = result.Where(l => l.C == c).ToList().OrderBy(l => l.ColPosition);
             foreach (var letterFound in lettersFound)
             {
-                reels.ForEach(r => r.Letters.ToList().OrderBy(l => l.ColPosition).ToList().ForEach(l =>
+                reels.ForEach(r => r.Letters.ToList().ForEach(l =>
                 {
                     if (l.ColPosition == letterFound.ColPosition)
                     {
