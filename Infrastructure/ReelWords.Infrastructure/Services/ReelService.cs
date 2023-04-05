@@ -27,27 +27,35 @@ namespace ReelWords.Infrastructure.Services
                 using (var sr = new StreamReader(trieFilePath))
                 {
                     int wordRow = 0;
-                    while (!sr.EndOfStream)
+                    var allText = sr.ReadToEnd();
+                    var textsByLine = allText.Split('\r').ToList();
+                    textsByLine = GenerateRandomSort(textsByLine).ToList();
+
+                    foreach (var originalText in textsByLine)
                     {
-                        var line = sr.ReadLine();
-                        var word = line.Trim().Replace(" ", "");
+                        var cleanText = originalText.Trim().Replace(" ", "");
                         var letters = new List<Letter>();
-                        for (int i = 0; i < word.Length; i++)
+                        for (int i = 0; i < cleanText.Length; i++)
                         {
-                            letters.Add(new Letter(word[i], wordRow, i));
+                            letters.Add(new Letter(cleanText[i], wordRow, i));
                         }
-                        reels.Add(new Reel(line, letters));
+                        reels.Add(new Reel(originalText, letters));
                         wordRow++;
                     }
                 }
-
-                Random rand = new Random();
-                return reels.OrderBy(_ => rand.Next());
+                return reels;
             }
             catch (Exception ex)
             {
                 throw ex;
             }
+        }
+
+        private IEnumerable<T> GenerateRandomSort<T>(IList<T> itemsToRandomize)
+        {
+            Random rand = new Random();
+            var newSortedList = itemsToRandomize.OrderBy(_ => rand.Next()).ToList();
+            return newSortedList;
         }
     }
 }
